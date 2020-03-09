@@ -7,6 +7,6 @@
 ## Lecture Code/Videos
 
 ### Mod 1
-* 01 - Best Practices [code](https://github.com/learn-co-students/dc-web-030920/tree/master/01-Hasketball)
+* 01 - Best Practices [code](https://github.com/learn-co-students/dc-web-030920/tree/master/01-Hasketball) | [video](https://youtu.be/HWAHL6Rfofo)
 
 ## Blog Schedule
