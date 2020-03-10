@@ -9,6 +9,7 @@
 ### Mod 1
 
 * 01 - Best Practices [code](https://github.com/learn-co-students/dc-web-030920/tree/master/01-Hasketball) | [video](https://youtu.be/HWAHL6Rfofo)
+* 02 - Intro to OO Ruby [code](https://github.com/learn-co-students/dc-web-030920/tree/master/02-Intro-to-OO) | [video](https://youtu.be/8TZc52Mcui0)
 
 ## Blogging Schedule 🎉
 
