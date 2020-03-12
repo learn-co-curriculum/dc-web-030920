@@ -10,7 +10,8 @@
 
 * 01 - Best Practices [code](https://github.com/learn-co-students/dc-web-030920/tree/master/01-Hasketball) | [video](https://youtu.be/HWAHL6Rfofo)
 * 02 - Intro to OO Ruby [code](https://github.com/learn-co-students/dc-web-030920/tree/master/02-Intro-to-OO) | [video](https://youtu.be/8TZc52Mcui0)
-* 03 - One to Many Relationships [code](https://github.com/learn-co-students/dc-web-030920/tree/master/03-One-to-Many) | [video](https://youtu.be/Z_crR62KgCU) 
+* 03 - One to Many Relationships [code](https://github.com/learn-co-students/dc-web-030920/tree/master/03-One-to-Many) | [video](https://youtu.be/Z_crR62KgCU)
+* 04 - OO My Pets 🧪 Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/04-OO-My-Pets) | [video](https://youtu.be/kSGLppn0n2o)
 
 ## Blogging Schedule 🎉
 
