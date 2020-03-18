@@ -11,8 +11,9 @@
 * 03 - One to Many Relationships [code](https://github.com/learn-co-students/dc-web-030920/tree/master/03-One-to-Many) | [video](https://youtu.be/Z_crR62KgCU)
 * 04 - OO My Pets 🧪 Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/05-OO-My-Pets) | [video](https://youtu.be/kSGLppn0n2o)
 * 05 - Many-to-Many [code](https://github.com/learn-co-students/dc-web-030920/tree/master/04-Many-to-Many) | [video](https://youtu.be/m0hHjv8luZ8)
-* 06 - Boating School [code](https://github.com/learn-co-students/dc-web-030920/tree/master/06-Boating-School) | [video](https://www.youtube.com/watch?v=j1nuxivf3Gc&feature=youtu.be) (unfortunately, it takes a loooooooon time to get zoom recordings, so until then, here's an old video)
+* 06 - Boating School [code](https://github.com/learn-co-students/dc-web-030920/tree/master/06-Boating-School) | [video](https://www.youtube.com/watch?v=j1nuxivf3Gc&feature=youtu.be) (old video)
 * 07 - Inheritance [code](https://github.com/learn-co-students/dc-web-030920/tree/master/07-Inheritence) | [video](https://youtu.be/FgArehPdZGk)
+* SQL Review [video](https://www.youtube.com/watch?v=hBxyj5l6L8k&feature=youtu.be)
 
 ## Blogging Schedule 🎉
 
