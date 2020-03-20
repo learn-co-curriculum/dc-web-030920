@@ -12,7 +12,7 @@
 * 04 - OO My Pets 🧪 Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/05-OO-My-Pets) | [video](https://youtu.be/kSGLppn0n2o)
 * 05 - Many-to-Many [code](https://github.com/learn-co-students/dc-web-030920/tree/master/04-Many-to-Many) | [video](https://youtu.be/m0hHjv8luZ8)
 * 06 - Boating School [code](https://github.com/learn-co-students/dc-web-030920/tree/master/06-Boating-School) | [video](https://www.youtube.com/watch?v=j1nuxivf3Gc&feature=youtu.be) (old video)
-* 07 - Inheritance [code](https://github.com/learn-co-students/dc-web-030920/tree/master/07-Inheritence) | [video](https://wework.zoom.com/rec/share/9ZAvJZ3vsX5IRLPC9l3wAPYHM6G9T6a8gScZ-vpbzxu0PmyBltPKAw4jbD5KYEMe) | [youtube video](https://youtu.be/FgArehPdZGk)
+* 07 - Inheritance [code](https://github.com/learn-co-students/dc-web-030920/tree/master/07-Inheritence) | [video](https://youtu.be/FgArehPdZGk)
 * SQL Review [video](https://www.youtube.com/watch?v=hBxyj5l6L8k&feature=youtu.be)
 * 08 - ORMs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/08-ORMs) | [old video](https://www.youtube.com/watch?v=suuIrVDOWVQ&feature=youtu.be)
 
