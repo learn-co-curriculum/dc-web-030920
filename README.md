@@ -14,7 +14,7 @@
 * 06 - Boating School [code](https://github.com/learn-co-students/dc-web-030920/tree/master/06-Boating-School) | [video](https://www.youtube.com/watch?v=j1nuxivf3Gc&feature=youtu.be) (old video)
 * 07 - Inheritance [code](https://github.com/learn-co-students/dc-web-030920/tree/master/07-Inheritence) | [video](https://youtu.be/FgArehPdZGk)
 * SQL Review [video](https://www.youtube.com/watch?v=hBxyj5l6L8k&feature=youtu.be)
-* 08 - ORMs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/08-ORMs) | [old video](https://www.youtube.com/watch?v=suuIrVDOWVQ&feature=youtu.be)
+* 08 - ORMs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/08-ORMs) | [video](https://www.youtube.com/watch?v=kIAr_lqTnRk&feature=youtu.be)
 * 09 - Intro to Active Record [code](https://github.com/learn-co-students/dc-web-030920/tree/master/09-Intro-To-Active-Record) | [video part 1]() | [video part 2]()
 
 ## Blogging Schedule 🎉
