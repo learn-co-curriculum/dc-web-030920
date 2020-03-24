@@ -18,28 +18,28 @@
 * 09 - Intro to Active Record [code](https://github.com/learn-co-students/dc-web-030920/tree/master/09-Intro-To-Active-Record) | [video part 1](https://www.youtube.com/watch?v=VG0KHV56uKw&feature=youtu.be) | [video part 2](https://youtu.be/xv52sL7is5g)
 * 10 - Active Record Associations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/10-Active-Record-Associations) | [video part 1](https://youtu.be/vlESjhQhTIU) | [video part 2](https://youtu.be/LXUXGocl9m0)
 
-## Blogging Schedule 🎉
+## Blogging Schedule 📚
 
-**03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
+<!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
 
-**03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Ras Azzab, Deijah Price
+👉 **03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
 **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
-**04/16/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Ras Azzab, Deijah Price
+**04/16/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
 **04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
-**05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Ras Azzab, Deijah Price
+**05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
 **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
-**05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Ras Azzab, Deijah Price
+**05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
 **06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
