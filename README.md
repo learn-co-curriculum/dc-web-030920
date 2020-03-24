@@ -18,6 +18,8 @@
 * 09 - Intro to Active Record [code](https://github.com/learn-co-students/dc-web-030920/tree/master/09-Intro-To-Active-Record) | [video part 1](https://www.youtube.com/watch?v=VG0KHV56uKw&feature=youtu.be) | [video part 2](https://youtu.be/xv52sL7is5g)
 * 10 - Active Record Associations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/10-Active-Record-Associations) | [video part 1](https://youtu.be/vlESjhQhTIU) | [video part 2](https://youtu.be/LXUXGocl9m0)
 * 11 - APIs-and-CLIs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/11-APIs-and-CLIs) | video tbd
+* 12 Project Week Demo [code](https://github.com/learn-co-students/dc-web-030920/tree/master/12-Intro-to-ProjectWeek-WizardHealth)
+* 13 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/13-Code-Challenge-Review) | [video](https://youtu.be/nUI3AD7AKw4)
 
 ## Blogging Schedule 📚
 
