@@ -20,6 +20,7 @@
 * 11 - APIs-and-CLIs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/11-APIs-and-CLIs) | video tbd
 * 12 Project Week Demo [code](https://github.com/learn-co-students/dc-web-030920/tree/master/12-Intro-to-ProjectWeek-WizardHealth)
 * 13 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/13-Code-Challenge-Review) | [video](https://youtu.be/nUI3AD7AKw4)
+* 14 Intro to Testing [code](https://github.com/learn-co-students/dc-web-030920/tree/master/14-Intro-to-Testing) video to come later
 
 ## Blogging Schedule 📚
 
