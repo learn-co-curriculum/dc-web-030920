@@ -21,14 +21,15 @@
 * 12 Project Week Demo [code](https://github.com/learn-co-students/dc-web-030920/tree/master/12-Intro-to-ProjectWeek-WizardHealth)
 * 13 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/13-Code-Challenge-Review) | [video](https://youtu.be/nUI3AD7AKw4)
 * 14 Intro to Testing [code](https://github.com/learn-co-students/dc-web-030920/tree/master/14-Intro-to-Testing) video to come later
+* 15 Intro to the Internet [notes](https://github.com/learn-co-students/dc-web-030920/tree/master/15-Intro-to-the-Internet) | [video](https://youtu.be/VjMQWU_clv8)
 
 ## Blogging Schedule 📚
 
 <!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
 
-👉 **03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
+<!-- **03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
 
-**04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+👉 **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
