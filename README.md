@@ -23,6 +23,9 @@
 * 14 Intro to Testing [code](https://github.com/learn-co-students/dc-web-030920/tree/master/14-Intro-to-Testing) | [video](https://wework.zoom.com/rec/share/3-xYKrf27j1Lf43W1GztRa1xO8fOT6a81HMcqKFey0zTmeuBJoIgvoOBX4sROHfj )
 * 15 Intro to the Internet [notes](https://github.com/learn-co-students/dc-web-030920/tree/master/15-Intro-to-the-Internet) | [video](https://youtu.be/VjMQWU_clv8)
 
+### Mod 2
+* 16 Intro to Sinatra [code](https://github.com/learn-co-students/dc-web-030920/tree/master/16-intro-to-sinatra) | [video](https://wework.zoom.com/rec/share/tcp8KLHPyl9OGInAshDTBoQHHrTpeaa81CkX8qJcxBvyoUdDSf4STwD9YgG6_Aak)
+
 ## Blogging Schedule 📚
 
 <!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
