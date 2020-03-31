@@ -26,6 +26,7 @@
 ### Mod 2
 * 16 Intro to Sinatra [code](https://github.com/learn-co-students/dc-web-030920/tree/master/16-intro-to-sinatra) | [video](https://wework.zoom.com/rec/share/tcp8KLHPyl9OGInAshDTBoQHHrTpeaa81CkX8qJcxBvyoUdDSf4STwD9YgG6_Aak)
 * 17 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-030920/tree/master/17-sinatra-forms) | [video](https://wework.zoom.com/rec/share/7sF3PazU72dOU7PQyByBY5M_Tt_iX6a81yEc_vcPzks8BO3NoY2YQdk1-Hqgu4ye)
+* 18 Sinatra RESTful Routing [video](https://wework.zoom.com/rec/play/v8EtIrv8rGo3GNOR4wSDU_B-W47pJqqshnBIrKVemU21WnkEN1L1ZbNHMONz9H-pg5oJF3dUoZ9sxvkR)
 
 ## Blogging Schedule 📚
 
