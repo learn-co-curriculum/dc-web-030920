@@ -27,7 +27,8 @@
 * 16 Intro to Sinatra [code](https://github.com/learn-co-students/dc-web-030920/tree/master/16-intro-to-sinatra) | [video](https://wework.zoom.com/rec/share/yPVKCqj-9mdLQpH08meEAbMNOI3jT6a80HBP_6EPmkhtNzcTd4s4uBaN8Fi3Gku1)
 * 17 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-030920/tree/master/17-sinatra-forms) | [video](https://wework.zoom.com/rec/share/-fN2EJOz3GxIG4HT9GuGBrY6A6n3X6a82iAc_fIPyx2ipCN5Hto--TU18UyXevde)
 * 18 Sinatra RESTful Routing [video](https://wework.zoom.com/rec/play/v8EtIrv8rGo3GNOR4wSDU_B-W47pJqqshnBIrKVemU21WnkEN1L1ZbNHMONz9H-pg5oJF3dUoZ9sxvkR)
-* 19 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-030920/tree/master/18-sinatra-associated-objects) | [video](https://wework.zoom.com/rec/share/-pRaKZHB_2NOBc_Rw26FA5Q6JKb4eaa8hCIX-6EPxUhGdqA0-aoDAvbfIemhsVmL?startTime=1585750129000)
+* 19 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-030920/tree/master/19-sinatra-associated-objects) | [video](https://wework.zoom.com/rec/share/-pRaKZHB_2NOBc_Rw26FA5Q6JKb4eaa8hCIX-6EPxUhGdqA0-aoDAvbfIemhsVmL?startTime=1585750129000)
+* 20 Intro to Rails [code](https://github.com/learn-co-students/dc-web-030920/tree/master/20-intro-to-rails) | [video](https://wework.zoom.us/rec/play/6McqJeGgrm83S9KRswSDU_9-W9W5faus2idM__ZZnhvnWngLMQWlNOQSYbDPXQJQbut7RxnHeEiatEGC?autoplay=true)
 
 ## Blogging Schedule 📚
 
@@ -35,22 +36,22 @@
 
 <!-- **03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
 
-👉 **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+<!-- **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
 
-**04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
+👉 **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
 **04/16/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
-**04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+**04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
 **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
-**05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+**05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
 **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
 **05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
-**06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+**06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
