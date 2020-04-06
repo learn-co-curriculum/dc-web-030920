@@ -31,6 +31,7 @@
 * 19 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-030920/tree/master/19-sinatra-associated-objects) | [video](https://wework.zoom.com/rec/share/-pRaKZHB_2NOBc_Rw26FA5Q6JKb4eaa8hCIX-6EPxUhGdqA0-aoDAvbfIemhsVmL?startTime=1585750129000)
 * 20 Intro to Rails [code](https://github.com/learn-co-students/dc-web-030920/tree/master/20-intro-to-rails) | [video](https://wework.zoom.us/rec/play/6McqJeGgrm83S9KRswSDU_9-W9W5faus2idM__ZZnhvnWngLMQWlNOQSYbDPXQJQbut7RxnHeEiatEGC?autoplay=true)
 * 21 Rails CRUD pt1 [code](https://github.com/learn-co-students/dc-web-030920/tree/master/21-rails-crud-pt1) | [video](https://wework.zoom.com/rec/share/vOUtEpit1j1LZqPI2V-AZu0IF4ThT6a8hiNP-aEMyBnnI_p8pQUwSpmGmj0-wu0k?startTime=1586181567000)
+* 22 Rails CRUD pt2 [code](https://github.com/learn-co-students/dc-web-030920/tree/master/22-rails-crud-pt2) | [video](https://wework.zoom.us/rec/play/vpErdOmp-2g3GYHBuQSDBPZ5W9S5KK6sgSYb-PMOzBu1ViQBZlqiZ-ASZOoLhBH9A1n4uFkJJhHKkI0D?autoplay=true&startTime=1586188233000)
 
 ## Blogging Schedule 📚
 
