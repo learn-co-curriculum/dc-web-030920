@@ -30,6 +30,7 @@
 * 18 Sinatra RESTful Routing [video](https://wework.zoom.com/rec/play/v8EtIrv8rGo3GNOR4wSDU_B-W47pJqqshnBIrKVemU21WnkEN1L1ZbNHMONz9H-pg5oJF3dUoZ9sxvkR)
 * 19 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-030920/tree/master/19-sinatra-associated-objects) | [video](https://wework.zoom.com/rec/share/-pRaKZHB_2NOBc_Rw26FA5Q6JKb4eaa8hCIX-6EPxUhGdqA0-aoDAvbfIemhsVmL?startTime=1585750129000)
 * 20 Intro to Rails [code](https://github.com/learn-co-students/dc-web-030920/tree/master/20-intro-to-rails) | [video](https://wework.zoom.us/rec/play/6McqJeGgrm83S9KRswSDU_9-W9W5faus2idM__ZZnhvnWngLMQWlNOQSYbDPXQJQbut7RxnHeEiatEGC?autoplay=true)
+* 21 Rails CRUD pt1 [code](https://github.com/learn-co-students/dc-web-030920/tree/master/21-rails-crud-pt1) | [video](https://wework.zoom.com/rec/share/vOUtEpit1j1LZqPI2V-AZu0IF4ThT6a8hiNP-aEMyBnnI_p8pQUwSpmGmj0-wu0k?startTime=1586181567000)
 
 ## Blogging Schedule 📚
 
