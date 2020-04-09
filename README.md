@@ -34,6 +34,7 @@
 * 22 Rails CRUD pt2 [code](https://github.com/learn-co-students/dc-web-030920/tree/master/22-rails-crud-pt2) | [video](https://wework.zoom.us/rec/play/vpErdOmp-2g3GYHBuQSDBPZ5W9S5KK6sgSYb-PMOzBu1ViQBZlqiZ-ASZOoLhBH9A1n4uFkJJhHKkI0D?autoplay=true&startTime=1586188233000)
 * 23 Rails Associations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/23-rails-associations) | [video](https://wework.zoom.com/rec/share/6sledbv15D5IaNLMuE3-U7VwEt3ET6a80SZL-adbyEszFXIY7n_tpUu654yDEatH)
 * 24 Rails Validations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/24-rails-validations) | [video](https://youtu.be/V8DPAiojrS0)
+* 25 Rails Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/25-rails-review) | [video] (https://wework.zoom.com/rec/share/3sdZMoyv5z5LHM_85k7NC78QD6DUX6a82iQcrPcLmh6tt3mwIfrKPO5yNgtRtQgL?startTime=1586440173000)
 
 ## Blogging Schedule 📚
 
