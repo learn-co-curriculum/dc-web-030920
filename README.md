@@ -35,6 +35,8 @@
 * 23 Rails Associations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/23-rails-associations) | [video](https://wework.zoom.com/rec/share/6sledbv15D5IaNLMuE3-U7VwEt3ET6a80SZL-adbyEszFXIY7n_tpUu654yDEatH)
 * 24 Rails Validations [code](https://github.com/learn-co-students/dc-web-030920/tree/master/24-rails-validations) | [video](https://youtu.be/V8DPAiojrS0)
 * 25 Rails Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/25-rails-review) | [video](https://wework.zoom.com/rec/share/3sdZMoyv5z5LHM_85k7NC78QD6DUX6a82iQcrPcLmh6tt3mwIfrKPO5yNgtRtQgL?startTime=1586441161000)
+* 26 Cookies and Sessions [code](https://github.com/learn-co-students/dc-web-030920/tree/master/26-cookies-and-sessions) | [video](https://wework.zoom.com/rec/share/x51wI5WvxmpOZafN2UvwSosuItjfT6a81nUdr_MEyRpwFS69xRMkYb6Kw103sNvT?startTime=1586804761000)
+* 27 Active Record Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/27-active-record-review) | [video](https://wework.zoom.com/rec/share/xcMtK5bi0XJOZJHO2k3fc6MAMIn-eaa80yFK_aBcmk-EHOBhdwSlYnY_rcaE5nrq?startTime=1586809915000)
 
 ## Blogging Schedule 📚
 
