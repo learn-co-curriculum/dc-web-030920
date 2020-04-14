@@ -37,6 +37,8 @@
 * 25 Rails Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/25-rails-review) | [video](https://wework.zoom.com/rec/share/3sdZMoyv5z5LHM_85k7NC78QD6DUX6a82iQcrPcLmh6tt3mwIfrKPO5yNgtRtQgL?startTime=1586441161000)
 * 26 Cookies and Sessions [code](https://github.com/learn-co-students/dc-web-030920/tree/master/26-cookies-and-sessions) | [video](https://wework.zoom.com/rec/share/x51wI5WvxmpOZafN2UvwSosuItjfT6a81nUdr_MEyRpwFS69xRMkYb6Kw103sNvT?startTime=1586804761000)
 * 27 Active Record Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/27-active-record-review) | [video](https://wework.zoom.com/rec/share/xcMtK5bi0XJOZJHO2k3fc6MAMIn-eaa80yFK_aBcmk-EHOBhdwSlYnY_rcaE5nrq?startTime=1586809915000)
+* 28 Passwords and Authentication [code](https://github.com/learn-co-students/dc-web-030920/tree/master/28-authentication) | [video](https://wework.zoom.com/rec/share/2-JSJeng8npJbYmX51yGa6w8Oar6aaa82iQe-6IExRw53TOIpwnSEC_c5kdQiTpx?startTime=1586872674000)
+* 29 Authorization [code](https://github.com/learn-co-students/dc-web-030920/tree/master/29-authorization) | [video](https://wework.zoom.com/rec/share/6-FLIpWgqz9LbLPV2kyPALcBDqG6X6a80CgfqPMIzB3nJOQ3rQP3ZXadHl2sGbg6?startTime=1586879812000)
 
 ## Blogging Schedule 📚
 
