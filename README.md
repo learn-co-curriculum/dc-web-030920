@@ -39,6 +39,7 @@
 * 27 Active Record Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/27-active-record-review) | [video](https://wework.zoom.com/rec/share/xcMtK5bi0XJOZJHO2k3fc6MAMIn-eaa80yFK_aBcmk-EHOBhdwSlYnY_rcaE5nrq?startTime=1586809915000)
 * 28 Passwords and Authentication [code](https://github.com/learn-co-students/dc-web-030920/tree/master/28-authentication) | [video](https://wework.zoom.com/rec/share/2-JSJeng8npJbYmX51yGa6w8Oar6aaa82iQe-6IExRw53TOIpwnSEC_c5kdQiTpx?startTime=1586872674000)
 * 29 Authorization [code](https://github.com/learn-co-students/dc-web-030920/tree/master/29-authorization) | [video](https://wework.zoom.com/rec/share/6-FLIpWgqz9LbLPV2kyPALcBDqG6X6a80CgfqPMIzB3nJOQ3rQP3ZXadHl2sGbg6?startTime=1586879812000)
+* 30 CSS Fundamentals [code](https://github.com/learn-co-students/dc-web-030920/tree/master/30-css-fundamentals) | [video](https://wework.zoom.com/rec/share/6-FLIpWgqz9LbLPV2kyPALcBDqG6X6a80CgfqPMIzB3nJOQ3rQP3ZXadHl2sGbg6?startTime=1586879812000)
 
 ## Blogging Schedule 📚
 
@@ -48,11 +49,11 @@
 
 <!-- **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
 
-👉 **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
+<!-- **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
 
-**04/16/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
+<!-- **04/16/2020** - Group B: Alessandro Duterte, Mary Kang, Junior Azzab, Deijah Price -->
 
-**04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+👉 **04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez, Daniel Succar
 
 **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
