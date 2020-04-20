@@ -41,6 +41,9 @@
 * 29 Authorization [code](https://github.com/learn-co-students/dc-web-030920/tree/master/29-authorization) | [video](https://wework.zoom.com/rec/share/6-FLIpWgqz9LbLPV2kyPALcBDqG6X6a80CgfqPMIzB3nJOQ3rQP3ZXadHl2sGbg6?startTime=1586879812000)
 * 30 CSS Fundamentals [code](https://github.com/learn-co-students/dc-web-030920/tree/master/30-css-fundamentals) | [video](https://wework.zoom.com/rec/share/yZNaJOrP5FhIXYHT5gb5Wp58QoDkX6a81CMbrvVZmU9OX4vHzeBzDUoLuntSRvRw)
 
+### Mod 3
+* 31 Experimenting with JS [code](https://github.com/learn-co-students/dc-web-030920/tree/master/31-JS-Intro) | [video](https://youtu.be/e8zRjoqt9P8)
+
 ## Blogging Schedule 📚
 
 <!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
