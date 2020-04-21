@@ -43,6 +43,7 @@
 
 ### Mod 3
 * 31 Experimenting with JS [code](https://github.com/learn-co-students/dc-web-030920/tree/master/31-JS-Intro) | [video](https://youtu.be/e8zRjoqt9P8)
+* 32 DOM [code](https://github.com/learn-co-students/dc-web-030920/tree/master/32-Intro-to-DOM) | [video](https://youtu.be/55WrvYDCDP4)
 
 ## Blogging Schedule 📚
 
