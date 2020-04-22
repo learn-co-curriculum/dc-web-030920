@@ -46,6 +46,9 @@
 * 32 DOM [code](https://github.com/learn-co-students/dc-web-030920/tree/master/32-Intro-to-DOM) | [video](https://youtu.be/55WrvYDCDP4)
 * 33 Callback Functions and Iterators [code](https://github.com/learn-co-students/dc-web-030920/tree/master/33-Callbacks-Iterators) | [video](https://youtu.be/OLHjXJPxLQ4)
 * 34 Events [code](https://github.com/learn-co-students/dc-web-030920/tree/master/34-JS-Events) | [video](https://youtu.be/brOnLaLEbkA)
+* 35 Task Lister [code](https://github.com/learn-co-students/dc-web-030920/tree/master/35-TaskLister) 
+* 36 Fetch [code](https://github.com/learn-co-students/dc-web-030920/tree/master/36-Fetch)
+
 
 ## Blogging Schedule 📚
 
