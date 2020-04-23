@@ -48,6 +48,7 @@
 * 34 Events [code](https://github.com/learn-co-students/dc-web-030920/tree/master/34-JS-Events) | [video](https://youtu.be/brOnLaLEbkA)
 * 35 Task Lister [code](https://github.com/learn-co-students/dc-web-030920/tree/master/35-TaskLister) | [video part 1](https://youtu.be/nO6Z-V6BpJM) | [video part 2](https://youtu.be/ytfO_q_Wxcs)
 * 36 Fetch [code](https://github.com/learn-co-students/dc-web-030920/tree/master/36-Fetch) | [video](https://youtu.be/A0h9zx9kw64)
+* 37 SPA [code](https://github.com/learn-co-students/dc-web-030920/tree/master/37-SPA) | video part 1 | video part 2
 
 
 ## Blogging Schedule 📚
