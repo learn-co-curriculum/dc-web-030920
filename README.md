@@ -49,6 +49,7 @@
 * 35 Task Lister [code](https://github.com/learn-co-students/dc-web-030920/tree/master/35-TaskLister) | [video part 1](https://youtu.be/nO6Z-V6BpJM) | [video part 2](https://youtu.be/ytfO_q_Wxcs)
 * 36 Fetch [code](https://github.com/learn-co-students/dc-web-030920/tree/master/36-Fetch) | [video](https://youtu.be/A0h9zx9kw64)
 * 37 SPA [code](https://github.com/learn-co-students/dc-web-030920/tree/master/37-SPA) | [video part 1](https://youtu.be/gmdzsyHsgCA) | [video part 2](https://youtu.be/vpOHXsQ3uws)
+* 38 Toy Tale Labe Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/38-toy-tale-lab-review) | [video part 1](https://wework.zoom.com/rec/play/usEpdLj6rj03S4CXsgSDUPZ4W426K_-shHQd-vYNyBrkUiNVZgGmb-ZGZwe2PmD36SmyWBCFbN3WFM0)
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
@@ -65,9 +66,9 @@ Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_f
 
 <!-- **04/16/2020** - Group B: Alessandro Duterte, Mary Kang, Junior Azzab, Deijah Price -->
 
-👉 **04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez, Daniel Succar
+<!-- **04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez, Daniel Succar -->
 
-**04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
+👉 **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
 
 **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
