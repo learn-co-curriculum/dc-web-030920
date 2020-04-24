@@ -50,6 +50,8 @@
 * 36 Fetch [code](https://github.com/learn-co-students/dc-web-030920/tree/master/36-Fetch) | [video](https://youtu.be/A0h9zx9kw64)
 * 37 SPA [code](https://github.com/learn-co-students/dc-web-030920/tree/master/37-SPA) | [video part 1](https://youtu.be/gmdzsyHsgCA) | [video part 2](https://youtu.be/vpOHXsQ3uws)
 
+Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
+
 
 ## Blogging Schedule 📚
 
