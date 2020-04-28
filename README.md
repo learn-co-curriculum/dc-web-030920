@@ -51,7 +51,7 @@
 * 37 SPA [code](https://github.com/learn-co-students/dc-web-030920/tree/master/37-SPA) | [video part 1](https://youtu.be/gmdzsyHsgCA) | [video part 2](https://youtu.be/vpOHXsQ3uws)
 * 38 Toy Tale Labe Review [code](https://github.com/learn-co-students/dc-web-030920/tree/master/38-toy-tale-lab-review) | [video part 1](https://wework.zoom.com/rec/play/usEpdLj6rj03S4CXsgSDUPZ4W426K_-shHQd-vYNyBrkUiNVZgGmb-ZGZwe2PmD36SmyWBCFbN3WFM0)
 * 39 Rails API [code](https://github.com/learn-co-students/dc-web-030920/tree/master/39-Rails-API) | [video part 1](https://youtu.be/ijQfaiVwDg0) | [video part 2](https://youtu.be/IKweXac5Z0Y)
-* 39 Rails API [code](https://github.com/learn-co-students/dc-web-030920/blob/master/40-pokemon-teams-review/pokemon-teams-frontend) | [video coming soon]()
+* 40 Pokemon Teams [code](https://github.com/learn-co-students/dc-web-030920/blob/master/40-pokemon-teams-review/pokemon-teams-frontend) | [video coming soon]()
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
