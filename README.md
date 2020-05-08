@@ -54,7 +54,7 @@
 * 40 Pokemon Teams [code](https://github.com/learn-co-students/dc-web-030920/blob/master/40-pokemon-teams-review/pokemon-teams-frontend) | [video](https://youtu.be/hzouch8imMk)
 * 41 `this` [code](https://github.com/learn-co-students/dc-web-030920/tree/master/41-this) | [video](https://youtu.be/xwBAvO66MMM)
 * 42 OOJS [code](https://github.com/learn-co-students/dc-web-030920/tree/master/42-OOJS) | [video](https://youtu.be/DWNhRMAJvCg)
-* 43 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/43-OOJS-and-SPA) | [video part 1](https://youtu.be/T_NbzNBieJc)
+* 43 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/43-OOJS-and-SPA) | [video part 1](https://youtu.be/T_NbzNBieJc) | [video part 2](https://youtu.be/_4qPtoJZVUU)
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
