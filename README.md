@@ -71,11 +71,11 @@ Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_f
 
 <!-- **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
 
-👉 **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
+<!-- **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
 
-**05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+👉 **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
 
-**05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson
+**05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park
 
 **05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
