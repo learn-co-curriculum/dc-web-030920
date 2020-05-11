@@ -55,6 +55,8 @@
 * 41 `this` [code](https://github.com/learn-co-students/dc-web-030920/tree/master/41-this) | [video](https://youtu.be/xwBAvO66MMM)
 * 42 OOJS [code](https://github.com/learn-co-students/dc-web-030920/tree/master/42-OOJS) | [video](https://youtu.be/DWNhRMAJvCg)
 * 43 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/43-OOJS-and-SPA) | [video part 1](https://youtu.be/T_NbzNBieJc) | [video part 2](https://youtu.be/_4qPtoJZVUU)
+* 44 Intro to React [code](https://github.com/learn-co-students/dc-web-030920/tree/master/44-Intro-to-React) | [video](https://youtu.be/6cPnWzlaUBo)
+* 45 Props [code](https://github.com/learn-co-students/dc-web-030920/tree/master/45-Props) | [video](https://youtu.be/impo00YZAd4)
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
