@@ -57,6 +57,8 @@
 * 43 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-030920/tree/master/43-OOJS-and-SPA) | [video part 1](https://youtu.be/T_NbzNBieJc) | [video part 2](https://youtu.be/_4qPtoJZVUU)
 * 44 Intro to React [code](https://github.com/learn-co-students/dc-web-030920/tree/master/44-Intro-to-React) | [video](https://youtu.be/6cPnWzlaUBo)
 * 45 Props [code](https://github.com/learn-co-students/dc-web-030920/tree/master/45-Props) | [video](https://youtu.be/impo00YZAd4)
+* 46 State [code](https://github.com/learn-co-students/dc-web-030920/tree/master/46-State)
+* 47 Forms [code](https://github.com/learn-co-students/dc-web-030920/tree/master/47-React-Forms)
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
