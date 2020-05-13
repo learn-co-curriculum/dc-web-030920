@@ -61,7 +61,7 @@
 * 45 Props [code](https://github.com/learn-co-students/dc-web-030920/tree/master/45-Props) | [video](https://youtu.be/impo00YZAd4)
 * 46 State [code](https://github.com/learn-co-students/dc-web-030920/tree/master/46-State) | [video](https://youtu.be/zij15tDmEkA)
 * 47 Forms [code](https://github.com/learn-co-students/dc-web-030920/tree/master/47-React-Forms) | [zoom is so stupid, here is an old recording](https://www.youtube.com/watch?v=djqghZJuklY&feature=youtu.be)
-* 48 Lab Review: Animal Shelter [code](https://github.com/learn-co-students/dc-web-030920/tree/master/48-animal-shelter-lab-review) | video is still processing
+* 48 Lab Review: Animal Shelter [code](https://github.com/learn-co-students/dc-web-030920/tree/master/48-animal-shelter-lab-review) | [video](https://wework.zoom.com/rec/play/7MF7dLisqz83T4CUtQSDAvFxW43sfK-s1CQaqfQLnhyxUyRQZlDyZ7VHN7NXEUDzNZ3iQhb5Mbl47ELa)
 
 Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
