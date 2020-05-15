@@ -66,7 +66,6 @@
 * 50 Lifecycle Methods and fetching [code](https://github.com/learn-co-students/dc-web-030920/tree/master/50-Component-Lifecycle) | [video](https://youtu.be/DJoqMQn8Kjs)
 * 51 Thinking in React [code](https://github.com/learn-co-students/dc-web-030920/tree/master/51-Thinking-In-React) | [video part 1]() | [video part 2](https://youtu.be/HVtyKUvxdq4)
 
-Extra Video of Monster's Lab: [video](https://www.youtube.com/watch?v=rvmm6DOS_fc&feature=youtu.be)
 
 ## Blogging Schedule 📚
 
