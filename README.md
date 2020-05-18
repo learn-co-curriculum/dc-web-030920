@@ -65,6 +65,7 @@
 * 49 Hogwarts [code](https://github.com/learn-co-students/dc-web-030920/tree/master/49-hogwarts) | [video](https://youtu.be/VhzpNG6E_C0)
 * 50 Lifecycle Methods and fetching [code](https://github.com/learn-co-students/dc-web-030920/tree/master/50-Component-Lifecycle) | [video](https://youtu.be/DJoqMQn8Kjs)
 * 51 Thinking in React [code](https://github.com/learn-co-students/dc-web-030920/tree/master/51-Thinking-In-React) | [video part 1](https://youtu.be/xgAFJCT7IMo) | [video part 2](https://youtu.be/HVtyKUvxdq4)
+* 52 Lab Review: Pokemon Searcher [code](https://github.com/learn-co-students/dc-web-030920/tree/master/52-Lab-Review-Pokemon-Searcher) | [video](https://wework.zoom.com/rec/play/u5ckcOCsrj43Sd3D4QSDBfZ-W9S5eqqs2iQa8vQJxB28V3gGYwGkZ7JEN-ezQa_xOksiwAaCXqOq1Wle)
 
 
 ## Blogging Schedule 📚
@@ -85,9 +86,9 @@
 
 <!-- **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
 
-👉 **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+<!-- **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
 
-**05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park
+👉 **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park
 
 **05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
 
