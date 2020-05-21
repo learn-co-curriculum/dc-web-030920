@@ -67,6 +67,7 @@
 * 51 Thinking in React [code](https://github.com/learn-co-students/dc-web-030920/tree/master/51-Thinking-In-React) | [video part 1](https://youtu.be/xgAFJCT7IMo) | [video part 2](https://youtu.be/HVtyKUvxdq4)
 * 52 Lab Review: Pokemon Searcher [code](https://github.com/learn-co-students/dc-web-030920/tree/master/52-Lab-Review-Pokemon-Searcher) | [video](https://wework.zoom.com/rec/play/u5ckcOCsrj43Sd3D4QSDBfZ-W9S5eqqs2iQa8vQJxB28V3gGYwGkZ7JEN-ezQa_xOksiwAaCXqOq1Wle)
 * 53 React Router [code](https://github.com/learn-co-students/dc-web-030920/tree/master/52-React-Router) | [video](https://youtu.be/-_wYYaAquRA)
+* 54 Auth [code](https://github.com/learn-co-students/dc-web-030920/tree/master/53-Auth)
 
 
 ## Blogging Schedule 📚
