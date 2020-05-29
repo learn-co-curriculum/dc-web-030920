@@ -72,11 +72,11 @@
 
 ### Redux and Mod 5 
 * 55 Intro to Redux [slides]() | [video]()
-* 56 Actions and reducer [code]() | [video]()
+* 56 Actions and reducer [code]() | [video](https://youtu.be/zYSFPXzhYKo)
 * 57 Provider and connect [code]() | [video]()
 * Additional Redux materials:
-  * 58 Thinking in Redux [video part 1]() | [video part 2]() | [starter code]() | [finished code]()
-  * 59 Async Redux [video]() | [starter code]() | [finished code]()
+  * 58 Thinking in Redux [video part 1](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be) | [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be) | [starter code]() | [finished code]()
+  * 59 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code]() | [finished code]()
   * [React Redux tutorial](https://www.valentinog.com/blog/redux/)
 
 
