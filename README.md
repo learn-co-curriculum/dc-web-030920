@@ -70,6 +70,17 @@
 * 54 Auth [code](https://github.com/learn-co-students/dc-web-030920/tree/master/53-Auth) | [video part 1](https://youtu.be/YbOrPWEF4_I) | [video part 2](https://youtu.be/b6tSnsCmo14)
 
 
+### Redux and Mod 5 
+* 55 Intro to Redux [slides]() | [video]()
+* 56 Actions and reducer [code]() | [video]()
+* 57 Provider and connect [code]() | [video]()
+
+Additional Redux materials:
+* 58 Thinking in Redux [video part 1]() | [video part 2]() | [starter code]() | [finished code]()
+* 59 Async Redux [video]() | [starter code]() | [finished code]()
+* [React Redux tutorial](https://www.valentinog.com/blog/redux/)
+
+
 ## Blogging Schedule 📚
 
 <!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
@@ -90,8 +101,8 @@
 
 <!-- **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
 
-👉 **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park
+<!-- **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park -->
 
-**05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price
+<!-- **05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
 
-**06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+👉 **06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
