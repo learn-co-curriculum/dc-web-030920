@@ -73,7 +73,7 @@
 ### Redux and Mod 5 
 * 55 Intro to Redux [slides](https://github.com/learn-co-students/dc-web-030920/blob/master/54-Intro-to-Redux/ReduxLectureSlides.pdf) | [video](https://youtu.be/vApgw9YsZGI)
 * 56 Actions and reducer [code](https://github.com/learn-co-students/dc-web-030920/tree/master/55-Actions-Reducers) | [video](https://youtu.be/zYSFPXzhYKo)
-* 57 Provider and connect [code](https://github.com/learn-co-students/dc-web-030920/tree/master/56-Provider-Connect) | [video]()
+* 57 Provider and connect [code](https://github.com/learn-co-students/dc-web-030920/tree/master/56-Provider-Connect) | [video](https://youtu.be/rbaJ1GLlj34)
 * Additional Redux materials:
   * 58 Thinking in Redux [video part 1](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be) | [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/57-Thinking-In-Redux)
   * 59 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/redux-thunk-starter-code) | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/58-Async-Redux)
