@@ -74,11 +74,10 @@
 * 55 Intro to Redux [slides]() | [video]()
 * 56 Actions and reducer [code]() | [video]()
 * 57 Provider and connect [code]() | [video]()
-
-Additional Redux materials:
-* 58 Thinking in Redux [video part 1]() | [video part 2]() | [starter code]() | [finished code]()
-* 59 Async Redux [video]() | [starter code]() | [finished code]()
-* [React Redux tutorial](https://www.valentinog.com/blog/redux/)
+* Additional Redux materials:
+  * 58 Thinking in Redux [video part 1]() | [video part 2]() | [starter code]() | [finished code]()
+  * 59 Async Redux [video]() | [starter code]() | [finished code]()
+  * [React Redux tutorial](https://www.valentinog.com/blog/redux/)
 
 
 ## Blogging Schedule 📚
