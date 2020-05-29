@@ -76,7 +76,7 @@
 * 57 Provider and connect [code](https://github.com/learn-co-students/dc-web-030920/tree/master/56-Provider-Connect) | [video]()
 * Additional Redux materials:
   * 58 Thinking in Redux [video part 1](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be) | [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/57-Thinking-In-Redux)
-  * 59 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code]() | [finished code]()
+  * 59 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code]() | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/58-Async-Redux)
   * [React Redux tutorial](https://www.valentinog.com/blog/redux/)
 
 
