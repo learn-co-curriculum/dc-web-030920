@@ -71,7 +71,7 @@
 
 
 ### Redux and Mod 5 
-* 55 Intro to Redux [slides]() | [video]()
+* 55 Intro to Redux [slides]() | [video](https://youtu.be/vApgw9YsZGI)
 * 56 Actions and reducer [code]() | [video](https://youtu.be/zYSFPXzhYKo)
 * 57 Provider and connect [code]() | [video]()
 * Additional Redux materials:
