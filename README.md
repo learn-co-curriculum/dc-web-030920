@@ -78,30 +78,105 @@
   * 58 Thinking in Redux [video part 1](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be) | [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/57-Thinking-In-Redux)
   * 59 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/redux-thunk-starter-code) | [finished code](https://github.com/learn-co-students/dc-web-030920/tree/master/58-Async-Redux)
   * [React Redux tutorial](https://www.valentinog.com/blog/redux/)
+* 59 Testing with Jest and Enzyme [code](https://github.com/learn-co-students/dc-web-030920/tree/master/59-Testing-Jest-Enzyme) | [video](https://youtu.be/QWDY69rlBfo)
+* 60 Deployment [code](https://github.com/learn-co-students/dc-web-030920/tree/master/60-Deployment) | [video](https://youtu.be/Hlv-c3oDR8w)
+* 62 React Hooks [pt1](https://youtu.be/oqf4ZC9ZE5c) | [pt2](https://www.youtube.com/watch?v=s9nkPA1943g)
+* 63 MERN Stack [video](https://www.youtube.com/watch?v=L_SQkL7rqxQ)
 
+## Full List of Blogs 📚🎉
 
-## Blogging Schedule 📚
+**03/19/2020** - Week 2
 
-<!-- **03/19/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
+* Bret Gibson: [3 Tips For a Beginner Programmer Changing Languages](https://medium.com/@bret.gibson/3-tips-for-a-beginner-programmer-changing-languages-d3d7b9c52454)
+* Carla Sahagun: [Understanding the difference between class methods and instance methods](https://medium.com/@daniela.sahagun03/understanding-the-difference-between-class-methods-and-instance-methods-93fcbd1634c5)
+* Beza Sirak: [Things That Surprised Me in my Journey of Becoming a Software Developer from Biochemist](https://tech-girl.tumblr.com/post/613016031499255808/things-that-surprised-me-in-my-journey-of-becoming)
+* Uzo Ariguzo: [A Ruby Programmers Best Friend: PRY](https://medium.com/@u.ariguzo.ua/a-ruby-programmers-best-friend-pry-f51ec2d9e41d)
+* Tomazye Anderson: [Class Variables & Methods to the Madness](https://medium.com/@tomazyeanderson/class-variables-methods-to-the-madness-a9a9cf555877)
 
-<!-- **03/26/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
+**03/26/2020** - Week 3
 
-<!-- **04/02/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Michael David Sackstein, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
+* Alex Duterte: [Code Wars. My love and hate relationship](https://medium.com/@alexduterte/code-wars-my-love-and-hate-relationship-e001e29aa91c)
+* Daniel Succar: [Smart Assets](https://medium.com/@dmsuccar/smart-assets-1940fd9aa919)
+* Mary Kang: [Coding During the Coronavirus](https://medium.com/better-programming/coding-during-coronavirus-ad87dbfbfaa)
+* Junior Az: [My First Coding Bootcamp Experience](https://medium.com/@ras.dinho7/my-first-coding-bootcamp-experience-aafdf52be200)
+* Deijah Price: [My Coding Bootcamp Went Remote After The First Week…](https://medium.com/@deijahprice/my-coding-bootcamp-went-remote-after-the-first-week-f1f9711f5855)
 
-<!-- **04/09/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
+**04/02/2020** - Week 4
 
-<!-- **04/16/2020** - Group B: Alessandro Duterte, Mary Kang, Junior Azzab, Deijah Price -->
+* Lindsay Montgomery: [MVC … My MVP](https://medium.com/@lmonty22/mvc-my-mvp-94321d6cad10)
+* Dawit Gizaw: [Creating My First End-Of-Mod Project](https://medium.com/@gizawdawit123/creating-my-first-end-of-mod-project-ce5687518042)
+* Richard Bobo: [A Few Thoughts About My First Three Weeks in a Software Engineering Bootcamp](https://medium.com/@richardbobo/a-few-thoughts-about-my-first-three-weeks-in-a-software-engineering-bootcamp-94dc8588a6da)
+* Sebastien Dornel: [Handling Exceptions in Ruby with The Begin and Rescue Keywords: The Basics](https://medium.com/@kai_dornel/handling-exceptions-in-ruby-with-the-begin-and-rescue-keywords-the-basics-ac1d7eff07e4)
+* Yahjaira Vasquez: [5 Must Know Active Record Methods](https://medium.com/@vyahjaira23/5-must-know-active-record-methods-7475b1578270)
 
-<!-- **04/23/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez, Daniel Succar -->
+**04/09/2020** - Week 5
 
-<!-- **04/30/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Tomazye Anderson -->
+* Bret Gibson: [Procs! Procs! Procs! *Lil Jon Voice*](https://medium.com/@bret.gibson/procs-procs-procs-lil-jon-voice-9b62bb72667b)
+* Carla Sahagun: [Basic Rails Nested Forms](https://medium.com/@daniela.sahagun03/basic-rails-nested-forms-2e34d2483025)
+* Beza Sirak: [Rails Active Record](https://medium.com/@sirak.bezawit/rails-active-record-associations-45176522a39d)
+* Uzoma Ariguzo: [Securing Your Code: Strong Params](https://medium.com/@u.ariguzo.ua/a-safer-way-to-secure-your-params-strong-params-cef8ba5f4bc8)
+* Tomazye Anderson: [A Recollection of Active Record](https://medium.com/@tomazyeanderson/a-recollection-of-active-record-5d655a1d966b)
 
-<!-- **05/07/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
+**04/16/2020** - Week 6
 
-<!-- **05/14/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez -->
+* Alessandro Duterte: [Write It Down](https://medium.com/@alexduterte/write-it-down-8b69a5e1bedd)
+* Mary Kang: [What the Pluck?](https://medium.com/@mary.kang/what-the-pluck-d9cb891514ad)
+* Junior Azzab: [Learning JavaScript](https://medium.com/@ras.dinho7/learning-javascript-8646d051abdf)
+* Deijah Price: [Agile Software Development For The Resistant Coder](https://medium.com/@deijahprice/agile-software-development-for-the-resistant-coder-3c644dbe31f)
 
-<!-- **05/21/2020** - Group A: Bret Gibson, Carla Sahagun, Beza Sirak, Uzoma Ariguzo, Yo Park -->
+**04/23/2020** - Week 7 
 
-<!-- **05/28/2020** - Group B: Alessandro Duterte, Daniel Succar, Mary Kang, Junior Azzab, Deijah Price -->
+* Lindsay Montgomery: [JavaScript is All Ears…](https://medium.com/@lmonty22/javascript-is-all-ears-ff7af314400)
+* Dawit Gizaw: [How to Deploy Your Web App to Heroku](https://medium.com/@gizawdawit123/how-to-deploy-your-web-app-to-heroku-52bf6cd8ffc3)
+* Richard Bobo: [JavaScript & Comparisons to Everyday Workflows](https://medium.com/@richardbobo/javascript-comparisons-to-everyday-workflows-40a94c9600ae)
+* Sebastien Dornel: [An Overview of the JavaScript Object Methods .keys(), .values(), .entries(), and .freeze()](https://medium.com/@kai_dornel/an-overview-of-the-javascript-object-methods-keys-values-entries-and-freeze-36a5f0695fbf)
+* Yahjaira Vasquez: [Debugging with Chrome DevTools](https://medium.com/@vyahjaira23/debugging-with-chrome-devtools-1e9354e8b02f)
+* Daniel Succar: [Smart Assets](https://medium.com/@dmsuccar/smart-assets-43ce10bbb845)
 
-👉 **06/04/2020** - Group C: Lindsay Montgomery, Dawit Gizaw, Richard Bobo, Sebastien Dornel, Yahjaira Vasquez
+**04/30/2020** - Week 8
+
+* Bret Gibson: [Fast JSON and You](https://medium.com/@bret.gibson/fast-json-and-you-8e7349398032)
+* Carla Sahagun: [Javascript Arrow Functions](https://medium.com/@daniela.sahagun03/javascript-arrow-functions-26dfee234014)
+* Beza Sirak: [Fetch it!](https://medium.com/@sirak.bezawit/fetch-it-3cd4591cfcb9)
+* Uzoma Ariguzo: [JavaScript — 6 Collection Processing Methods](https://medium.com/@u.ariguzo.ua/javascript-6-collection-processing-methods-73e22d8883ab)
+
+**05/07/2020** - Week 9
+
+* Alessandro Duterte: [The Scientific Method Approach to Coding](https://medium.com/@alexduterte/the-scientific-method-approach-to-coding-143c20ebc63d)
+* Daniel Succar: [What debug? A Beginners Guide to Utalizing Breakpoint in Google Chrome](https://medium.com/@dmsuccar/what-debug-a-beginners-guide-to-utalizing-breakpoint-in-google-chrome-188984fe96f3)
+* Mary Kang: [Store it, locally](https://medium.com/swlh/store-it-locally-3356d6f9c04f)
+* Junior Azzab: [React => JavaScript library for building user interfaces](https://medium.com/@ras.dinho7/react-javascript-library-for-building-user-interfaces-11acc224a47c)
+* Deijah Price: [Calculus for DS: An Introduction to Derivatives](https://medium.com/swlh/calculus-for-ds-an-introduction-to-derivatives-207f22e23c8e)
+
+**05/14/2020** - Week 10
+
+* Lindsay: [Intro to React Developer Tools](https://medium.com/@lmonty22/intro-to-react-developer-tools-9f77856b64ec)
+* Richard: [Separate Concerns Like a Zen Business Strategist](https://medium.com/@richardbobo/separate-software-engineering-concerns-like-a-zen-business-strategist-633cbbb76eda)
+* Sebastien: [React’s setState function](https://medium.com/@kai_dornel/understand-reacts-setstate-function-66edb942ab1e)
+* Dawit: [How to Become a Master Problem Solver](https://medium.com/@gizawdawit123/how-to-become-a-master-problem-solver-e66e2ce9abad)
+* Yahjaira: [Spread Operator: Whats With The “…” Thing?](https://medium.com/@vyahjaira23/spread-operator-whats-with-the-thing-9aa685bc9db5)
+
+**05/21/2020** - Week 11
+
+* Bret Gibson: [Animations in React](https://medium.com/@bret.gibson/animations-in-react-f1ea20cc69a5)
+* Carla Sahagun: [Understanding React Controlled Forms](https://medium.com/@itacamba/understanding-react-controlled-forms-bd808ebecc1b)
+* Beza Sirak: [Handling Forms in React](https://medium.com/@sirak.bezawit/handling-forms-in-react-32c23df84341)
+* Uzoma Ariguzo: [Using Semantic-UI-React in your React Application⚛️](https://medium.com/@u.ariguzo.ua/using-semantic-ui-react-in-your-react-application-%EF%B8%8F-c1778f70d017)
+
+**05/28/2020** - Week 12
+
+* Alessandro Duterte: [React useState and useEffect Hooks](https://medium.com/@alexduterte/react-usestate-and-useeffect-hooks-86130c276add)
+* Daniel Succar: [Rockstar Lifecycle, Might Not Make It — Beginners guide Serializers in React](https://medium.com/@dmsuccar/rockstar-lifecycle-might-not-make-it-beginners-guide-serializers-in-react-ab651a8c5868)
+* Mary Kang: [Bookmarks for Beginners](https://medium.com/@mary.kang/bookmarks-for-beginners-6cf6bc8a0e6b)
+* Junior Azzab: [Intro to Redux](https://medium.com/@ras.dinho7/intro-to-redux-92cfbdea6d2d)
+* Deijah Price: [Advice From a Coding Bootcamp Grad](https://medium.com/@deijahprice/life-after-bootcamp-advice-from-a-flatiron-grad-a7c806e78907)
+
+**06/04/2020** - Week 13
+
+* Lindsay Montgomery: [Finding myself through Flatiron 🏊🏼‍♀️ 👩🏼‍💻](https://medium.com/@lmonty22/finding-my-new-identity-through-flatiron-%EF%B8%8F-7d5659267c2d)
+* Dawit Gizaw: [Handling Impostor Syndrome](https://medium.com/@gizawdawit123/handling-impostor-syndrome-6709b5bcdee1)
+* Richard Bobo: [Write and Measure Efficient Functions in JavaScript: Saving You Time and Money](https://medium.com/@richardbobo/write-and-measure-efficient-functions-in-javascript-saving-you-time-and-money-48c5a9666146)
+* Sebastien Dornel: [General Guidelines to follow when Organizing your Coding Projects](https://medium.com/@kai_dornel/ways-to-organize-your-coding-projects-409ade91827d)
+* Yahjaira Vasquez: [Seeding Your Rails Database With A Spreadsheet](https://medium.com/@vyahjaira23/seeding-your-rails-database-with-a-spreadsheet-6714ee20966f)
+
+🎉🎉🎉🎉🎉 Great Job everyone 🎉🎉🎉🎉🎉
